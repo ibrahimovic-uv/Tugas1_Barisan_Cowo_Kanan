@@ -1,6 +1,10 @@
 html {
     background-color: antiquewhite;
 }
+
+a {
+    text-align: center;
+}
 a {
     color:red
 }
